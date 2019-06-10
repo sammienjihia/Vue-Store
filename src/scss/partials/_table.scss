@@ -1,0 +1,35 @@
+.table-game-icon{
+  width: 5.5rem;
+}
+.game-image{
+  width: 5rem;
+  height: 5rem;
+}
+.table-game-name{
+  width: 10rem;
+  font-weight: 600;
+  color: $dark-gray;
+}
+.table-game-details{
+  color: $black;
+}
+
+.card-padding{
+  padding: 0 1rem;
+}
+
+.card-image{
+  height: 20rem;
+  display: block;
+}
+
+.game-text{
+  font-size: 0.9rem;
+  color: $dark-gray;
+}
+
+.card-buttons{
+  button{
+    margin-bottom: 0;
+  }
+}
