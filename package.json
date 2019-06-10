@@ -2,7 +2,7 @@
   "name": "vue-store",
   "version": "1.0.0",
   "description": "A Store Management App",
-  "author": "sammy <dilaninjihia@gmail.com>",
+  "author": "sammy njihia <dilaninjihia@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
